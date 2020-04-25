@@ -16,4 +16,5 @@ function (salesOrder, parse) {
             venta.cliente.tipoiva = "C";
         }
     })
-}//esto es lo que cambio
+
+}//esto es lo que cambio, pero no tanto
